@@ -1,6 +1,6 @@
 # scaffold-js [![Build Status](https://travis-ci.org/battlemidget/scaffold-js.svg?branch=master)](https://travis-ci.org/battlemidget/scaffold-js)
 
-> My posh module
+> personal node project scaffold
 
 
 ## Install
