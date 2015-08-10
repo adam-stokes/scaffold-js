@@ -1,0 +1,34 @@
+{
+  "name": "scaffold-js",
+  "version": "0.0.0",
+  "description": "My posh module",
+  "license": "MIT",
+  "repository": "battlemidget/scaffold-js",
+  "author": {
+    "name": "Adam Stokes",
+    "email": "adam.stokes@ubuntu.com",
+    "url": "astokes.org"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    ""
+  ],
+  "dependencies": {
+    "meow": "^3.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
